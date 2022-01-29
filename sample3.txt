@@ -1,2 +1,4 @@
 created this file sample3 from main branch
-Added this conflict line from master branch
+
+Added this conflict line from main branch
+
