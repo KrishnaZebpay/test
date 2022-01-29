@@ -3,3 +3,5 @@ created this file sample3 from main branch
 Added this conflict line from main branch
 
 Added Line 1 from master branch
+
+Added Line 2 from main branch
